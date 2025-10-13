@@ -8,6 +8,5 @@ if a == 2:
     z = np.prod(x)
     print('f(x) + (y)', x + y)
     print('f(x)*f(y)',z)
-    for i in range(200):
-        i = print("rolbox gaming")
+
     
