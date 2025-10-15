@@ -3,6 +3,8 @@ import numpy as np
 import sklearn as d
 a = int(input("yeah:"))
 vocals = {"a":0, "b":22,"c":2}
+def parametres(a,b,c):
+    
 if a == 2:
     x = np.array([vocals["a"],vocals["b"],vocals['b']])
     y = np.array([2,3,4])
